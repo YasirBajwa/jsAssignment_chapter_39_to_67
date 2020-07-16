@@ -68,3 +68,35 @@
 // }
 
 //  main(80,90,90);
+
+//------------------------- task 05------------------------------------------//
+
+//You have learned the function indexOf. Code your own custom function
+//  that will perform the same functionality. 
+// You can code for single character as of now.
+
+// function findIndex (){
+//     var fruits = ['A','B','C','D'];
+//     var result = fruits.indexOf('C');
+//     console.log('Index is :',result);
+// }
+// findIndex();
+
+
+//------------------------- task 06------------------------------------------//
+//Write a function to delete all vowels from a sentence.
+//  Assume that the sentence is not more than 25 characters long.
+
+
+// var strings = ["bongo drums", "guitar", "flute", "double bass", "xylophone","piano"];
+
+// string = strings.filter(function(item) { return item.replace( /[aeiou]/g, '' )});
+
+// console.log(string);
+
+
+
+
+//------------------------- task 07------------------------------------------//
+//Write a function with switch statement to count the number of occurrences of 
+// any two vowels in succession in a line of text. For example, in the sentence
